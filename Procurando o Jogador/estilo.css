@@ -1,0 +1,74 @@
+body{
+    background-color: rgb(255, 0, 140);
+    font: normal 15pt Arial;
+}
+header{
+    text-align: center;
+}
+section{
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    box-shadow: 2px 2px 4px black;
+}
+footer{
+    text-align: center;
+    font-weight: 900;
+}
+#img{
+    margin-top: 15px;
+    width: 300px;
+    height: 290px;
+    border-radius: 200px;
+}
+.Ronaldo{
+    margin-top: 15px;
+    background-color: rgb(2, 178, 2);
+    height: 30px;
+    color: white;
+    border-radius: 6px;
+    font-weight: 900;
+}
+.Messi{
+    margin-top: 15px;
+    background-color: yellow;
+    height: 30px;
+    color: black;
+    border-radius: 6px;
+    font-weight: 900;
+}
+.Neymar{
+    margin-top: 15px;
+    background-color: black;
+    height: 30px;
+    color: white;
+    border-radius: 6px;
+    font-weight: 900;
+}
+.Dimaria{
+    margin-top: 15px;
+    background-color: red;
+    height: 30px;
+    color: white;
+    border-radius: 6px;
+    font-weight: 900;
+}
+.Mbape{
+    margin-top: 15px;
+    background-color: white;
+    height: 30px;
+    color: black;
+    border-radius: 6px;
+    font-weight: 900;
+}
+.Ronaldinho{
+    margin-top: 15px;
+    background-color: rgb(0, 238, 255);
+    height: 30px;
+    color: black;
+    border-radius: 6px;
+    font-weight: 900;
+}
